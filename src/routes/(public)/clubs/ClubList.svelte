@@ -82,6 +82,7 @@
 		{/each}
 	</TableBody>
 </Table>
+<!-- TODO: figure out if it is possible to integrate this with a table, when it was initially written the table was removing the styling-->
 <div class="mx-auto flex flex-col font-sans sm:hidden">
 	<main class="flex-1 divide-y divide-gray-200 overflow-y-auto dark:divide-gray-700">
 		{#each searchedClubs as club}
